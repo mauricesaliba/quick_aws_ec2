@@ -1,4 +1,4 @@
-# Terraform Lab 01 — Amazon Linux 2023 EC2 on a new VPC
+# Terraform provision Amazon Linux 2023 EC2 on a new VPC
 
 Provisions a single Amazon Linux 2023 (x86_64) EC2 instance inside a brand-new
 VPC. Access mode is selected at apply time via the `access_mode` variable:
